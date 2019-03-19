@@ -6,5 +6,5 @@ Please run the scripts in the following sequence to ensure orderly variable defi
 4. 'RS21_LogisticRegression.py'
 5. 'RS21_RandomForest.py'
 6. 'RS21_neuralnet.py'
-
+7. 'RS21_sentimentanalysis.py' (unfinished code)
 Thank you!
