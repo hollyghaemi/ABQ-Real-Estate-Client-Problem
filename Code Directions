@@ -1,0 +1,10 @@
+Please run the scripts in the following sequence to ensure orderly variable definitions :
+
+1. 'RS21_imports.py'
+2. 'RS21_datamunging.py'
+3. 'RS21_EDA.py'
+4. 'RS21_LogisticRegression.py'
+5. 'RS21_RandomForest.py'
+6. 'RS21_neuralnet.py'
+
+Thank you!
