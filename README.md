@@ -1,5 +1,5 @@
-# RS21
-RS21 ABQ Real Estate Client Problem
+# ABQ Real Estate Client Problem
+
 
 With data sets regarding ABQ public transportation (2012), twitter tweets, CDC health measures (2017), facebook check-ins and
 home mortgage applications (2014) -- data clean up, exploratory data analysis and model selection led to the following 
